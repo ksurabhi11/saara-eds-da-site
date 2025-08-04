@@ -7,6 +7,16 @@
       "passConfig": true,
       "environments": ["preview","live", "edit"],
       "includePaths": ["**.docx**"]
+    },
+    {
+      "id": "asset-library",
+      "title": "AEM Assets",
+      "url": "https://experience.adobe.com/solutions/CQ-assets-selectors/static-assets/resources/franklin/asset-selector.html?rail=false",
+      "passConfig": true,
+      "environments": ["preview","live", "edit"],
+      "includePaths": ["**.docx**"],
+      "isPallete": true,
+      "paletteRect": "top:150px;left:7%;height:675px;width:85vw;"
     }
   ]
 }
