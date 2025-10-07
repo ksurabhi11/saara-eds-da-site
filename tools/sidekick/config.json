@@ -17,6 +17,16 @@
       "includePaths": ["**.docx**"],
       "isPalette": true,
       "paletteRect": "top:10px;left:7%;height:675px;width:85vw;"
+    },
+    {
+      "id": "content-hub",
+      "title": "Content Hub",
+      "url": "https://experience.adobe.com/solutions/CQ-assets-selectors/static-assets/resources/franklin/asset-selector.html?rail=false",
+      "passConfig": true,
+      "environments": ["preview","live", "edit"],
+      "includePaths": ["**.docx**"],
+      "isPalette": true,
+      "paletteRect": "top:10px;left:7%;height:675px;width:85vw;"
     }
   ]
 }
