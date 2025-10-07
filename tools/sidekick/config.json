@@ -21,7 +21,7 @@
     {
       "id": "content-hub",
       "title": "Content Hub",
-      "url": "https://experience.adobe.com/solutions/CQ-assets-selectors/static-assets/resources/franklin/asset-selector.html?rail=false",
+      "url": "https://experience.adobe.com/#/@ernstyoungapacptrsd/assets/contenthub",
       "passConfig": true,
       "environments": ["preview","live", "edit"],
       "includePaths": ["**.docx**"],
