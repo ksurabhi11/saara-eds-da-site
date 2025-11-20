@@ -26,7 +26,7 @@
       "environments": ["preview","live", "edit"],
       "includePaths": ["**.docx**"],
       "isPalette": true,
-      "paletteRect": "top:10px;left:7%;height:675px;width:85vw;"
+      "paletteRect": "top:11px;left:7%;height:675px;width:85vw;"
     }
   ]
 }
